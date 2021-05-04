@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ### `yarn lint`
 
-Launches the lint runner throughout the project.
+Launches the lint runner throughout the project to fix linting errors and shows them.
 
 ### `yarn build`
 
